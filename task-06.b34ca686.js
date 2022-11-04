@@ -1,0 +1,2 @@
+!function(){var i={input:document.querySelector("#validation-input")};i.input.addEventListener("blur",(function(t){t.currentTarget.value.length===Number(i.input.dataset.length)?(i.input.classList.add("valid"),i.input.classList.contains("invalid")&&i.input.classList.remove("invalid")):(i.input.classList.add("invalid"),i.input.classList.contains("valid")&&i.input.classList.remove("valid"))}))}();
+//# sourceMappingURL=task-06.b34ca686.js.map
