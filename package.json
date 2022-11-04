@@ -5,7 +5,7 @@
   "homepage": "https://AnnaKostyanaya.github.io/goit-js-hw-06/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-06/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-06/index.html"
   },
   "repository": {
     "type": "git",
